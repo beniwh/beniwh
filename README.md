@@ -1,6 +1,6 @@
-## Olá, me chamo Beni. ****
-### Apaixonado por tecnologia e segurança da indormação no geral
-<div align="center">
+## Olá, me chamo Beni. 😊
+### ⚠️  Apaixonado por tecnologia e segurança da indormação no geral
+
   <a href="https://github.com/beniwh">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=beniw&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beniwh&layout=compact&langs_count=7&theme=dark"/>
